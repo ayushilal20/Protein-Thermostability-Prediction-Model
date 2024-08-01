@@ -16,5 +16,4 @@ The model utilizes k-mer count vectorization and a Gradient Boosting Regressor (
   * Hyperparameter Optimization: Grid search with 3-fold cross-validation
     * Final Parameters: Learning rate of 0.1, 100 estimators, max depth of 3
 
-* Results and Conclusion:
-  * The score of 0.545 on Kaggle suggests a moderate prediction accuracy.
+
