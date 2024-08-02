@@ -1,4 +1,3 @@
-# StabilityAI
 Machine Learning Model for Predicting Protein Thermostability; Submitted as a part of kaggle competition for the CSE7850/CX4803 Machine Learning in Computational Biology Course.
 The model utilizes k-mer count vectorization and a Gradient Boosting Regressor (GBR) to make predictions based on protein sequences.
 
